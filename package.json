@@ -1,0 +1,17 @@
+{
+  "name": "qazaqsoft-interview-task",
+  "version": "1.0.0",
+  "description": "Реализовать мини-модуль для прохождения теста на образовательной платформе.\r Функционал — загрузка вопросов из локального JSON, выбор ответов, подсчёт результата, сохранение прогресса.",
+  "main": "app.js",
+  "scripts": {
+    "build-css": "sass styles.scss styles.css",
+    "watch-css": "sass --watch styles.scss styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.92.1"
+  }
+}
